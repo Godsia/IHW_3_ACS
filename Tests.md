@@ -1,5 +1,5 @@
 # Tests
-![alt text]([Снимок экрана 2024-12-14 в 10.10.59.png](https://github.com/Godsia/IHW_4_ACS/blob/main/Снимок%20экрана%202024-12-14%20в%2010.10.59.png))
+![alt text]((https://github.com/Godsia/IHW_4_ACS/blob/main/Снимок%20экрана%202024-12-14%20в%2010.10.59.png))
 ![alt text]("Снимок экрана 2024-12-14 в 10.11.38.png")
 ![alt text](Снимок экрана 2024-12-14 в 10.11.55.png)
 ![alt text](Снимок экрана 2024-12-14 в 10.12.22.png)
